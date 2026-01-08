@@ -1,0 +1,1 @@
+function handleLogin(){console.log("Login handler placeholder");}
