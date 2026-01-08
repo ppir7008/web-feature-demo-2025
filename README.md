@@ -1,2 +1,1 @@
-# web-feature-demo-2025
-
+This repository demonstrates a simple web feature workflow using github and other apps.
